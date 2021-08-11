@@ -1,7 +1,7 @@
 # CN2UK
-
-Demonstrate the available flight from China mainland to UK via Middle East or European Union.
-
-1. From HK to UK:
-   1.1 Every Sunday's afternoon via Hong Kong International Airport.
-   1.2 
+## 介绍了从中国大陆返回英国继续学业的可行性航班
+1. 英国北部18所大学的包机，其中包括曼彻斯特大学，谢菲尔德大学，利物浦大学等（仍在等待民航局的批复，见）
+    票价：大约13300（不含税）
+        票价包括自国内机场任意机场至重庆江北机场以及江北机场至曼彻斯特的航班。
+    时间：约9月7、8、9、10日（仍待批准）
+    
